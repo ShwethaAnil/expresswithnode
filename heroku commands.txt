@@ -1,0 +1,10 @@
+npm i -g create-react-app
+create-react-app demo-project
+cd demo-project
+git init
+heroku create -b https://github.com/user/create-react-user-app
+git add
+git commit -m "create-react-app on Heroku"
+git push heroku master
+heroku open
+

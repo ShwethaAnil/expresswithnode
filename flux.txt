@@ -1,0 +1,11 @@
+
+ Flux:Redux
+ npm i react-redux
+ 
+Actions
+Componenets
+reducers
+
+Actions--->Store--->reducers
+
+view
